@@ -8,7 +8,7 @@ Sigue estos pasos para clonar el repositorio, cambiar al directorio del proyecto
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/Moicano9949/webScan.git
+git clone https://github.com/Moicano9949/webScanV1.git
 
 # Navega al directorio del proyecto
 cd webScan
