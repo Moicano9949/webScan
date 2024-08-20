@@ -1,0 +1,80 @@
+WordPress : /wp-content/
+Joomla : /media/
+Drupal : /sites/
+Magento : /skin/
+Shopify : /assets/
+Squarespace : /static/
+Wix : /assets/
+React : /static/js/
+Angular : /angular/
+Vue.js : /vue/
+Django : /static/
+Flask : /static/
+Express.js : /public/
+Node.js : /node_modules/
+Ruby on Rails : /assets/
+Laravel : /public/
+Symfony : /bundles/
+ASP.NET : /Scripts/
+Spring Boot : /static/
+Vue Storefront : /vsf-static/
+Next.js : /_next/
+Nuxt.js : /_nuxt/
+Gatsby : /static/
+Bootstrap : /css/
+Tailwind CSS : /css/
+Materialize : /materialize/
+Foundation : /foundation/
+Bulma : /bulma/
+Sass : /sass/
+LESS : /less/
+jQuery : /jquery/
+React Native : /assets/
+Flutter : /assets/
+Ionic : /ionic/
+NativeScript : /assets/
+Cordova : /cordova/
+PhoneGap : /phonegap/
+Xamarin : /xamarin/
+Swift : /swift/
+Kotlin : /kotlin/
+Java : /java/
+Python : /python/
+Ruby : /ruby/
+PHP : /php/
+Go : /go/
+Rust : /rust/
+C++ : /cpp/
+C# : /csharp/
+.NET : /dotnet/
+Perl : /perl/
+Docker : /docker/
+Kubernetes : /k8s/
+Ansible : /ansible/
+Chef : /chef/
+Puppet : /puppet/
+Terraform : /terraform/
+Jenkins : /jenkins/
+GitLab : /gitlab/
+GitHub : /github/
+Bitbucket : /bitbucket/
+Git : /git/
+Mercurial : /mercurial/
+Subversion : /svn/
+Elasticsearch : /elasticsearch/
+MongoDB : /mongodb/
+Redis : /redis/
+Cassandra : /cassandra/
+MariaDB : /mariadb/
+MySQL : /mysql/
+PostgreSQL : /postgres/
+OracleDB : /oracle/
+SQL Server : /sqlserver/
+SQLite : /sqlite/
+Firebase : /firebase/
+AWS : /amazon/
+Azure : /azure/
+Google Cloud : /google/
+Heroku : /heroku/
+Netlify : /netlify/
+Vercel : /vercel/
